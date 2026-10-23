@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/publisle/publisle/discussions
+    about: Ask questions, propose ideas and share what you built in Discussions.
+  - name: Documentation
+    url: https://publisle.xyz/docs/
+    about: Guides, reference and the beta standards.
+  - name: Report a security vulnerability
+    url: https://github.com/publisle/publisle/security/advisories/new
+    about: Report security issues privately — never in a public issue.
